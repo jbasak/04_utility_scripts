@@ -1,6 +1,6 @@
 @echo off
 :: Navigate to your project folder
-cd /d "C:\BASAK\Codebase\github_repos\04_utility_scripts"
+cd /d "C:\BASAK\Codebase\github_repos\01_basak_pythonproj"
 
 :: Stage all changed and new files
 git add .
