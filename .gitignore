@@ -1,0 +1,27 @@
+# Edureka authentication and local credential exports
+edureka-cookies.txt
+sample-cookies.txt
+*.cookies.txt
+*.cookie
+edureka_download_config.ini
+
+# Local environment and secret configuration files
+.env
+.env.*
+*.secret
+secrets/
+
+# Generated downloads
+*.pdf
+*.part
+
+# Python cache and local tooling files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local virtual environments
+.venv/
+venv/
